@@ -1,13 +1,11 @@
 🎬 ZINEMA - Movie Ticket Booking Web Application
 
-A responsive and user-friendly movie ticket booking web application built using HTML, CSS, JavaScript, and Java (Spring Boot).
+A responsive and user-friendly movie web application built using HTML, CSS, JavaScript, and Java (Spring Boot).
 Users can explore movies, view show timings, and book tickets with an easy-to-use interface.
 
 🚀 Features
 
 🎥 Browse currently running and upcoming movies
-🕒 View show timings and seat availability
-🎟️ Book and cancel tickets easily
 👤 User login and registration
 🧾 Booking summary and confirmation
 💻 Responsive design for all devices
